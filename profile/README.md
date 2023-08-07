@@ -1,4 +1,4 @@
-<img src="./gpg_logo-3.png" style="width:420px" alt="Good Pal Games">
+<img src="https://raw.githubusercontent.com/goodpals/.github/main/profile/gpg_logo-3.png" style="width:420px" alt="Good Pal Games">
 
 We are 3 developers based between England & Vietnam.
 
