@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/goodpals/.github/main/profile/gpg_logo-3.png" style="width:420px" alt="Good Pal Games">
-
 We are 3 developers based between England, China & Vietnam.
 
 Alex Baker ([Github](https://github.com/alexobviously), [Website](https://sandeducator.dev), [Cat](https://avatars.githubusercontent.com/u/2500696?v=4))  
